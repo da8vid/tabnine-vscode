@@ -1,7 +1,7 @@
 {
   "publisher": "TabNine",
   "name": "tabnine-vscode",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "displayName": "Tabnine Autocomplete AI: JavaScript, Python, TypeScript, PHP, Go, Java, Ruby, C/C++, HTML/CSS, C#, Rust, SQL, Bash, Kotlin, React",
   "description": "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code.",
   "icon": "small_logo.png",
@@ -125,7 +125,7 @@
     "chai-shallow-deep-equal": "^1.4.6",
     "eslint": "^7.15.0",
     "eslint-config-airbnb-typescript": "^12.0.0",
-    "eslint-config-prettier": "^6.15.0",
+    "eslint-config-prettier": "^7.2.0",
     "eslint-import-resolver-typescript": "^2.3.0",
     "eslint-plugin-import": "^2.22.1",
     "glob": "^7.1.6",
